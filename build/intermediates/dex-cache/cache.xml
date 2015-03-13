@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\AndroidStudioProjects\Sensor\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-aa16b3cf885393ef74ba8407c65bcf20627dd05b.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Sensor\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\AndroidStudioProjects\Sensor\app\build\intermediates\pre-dexed\debug\classes-6328261b54e32f5e1c9214a3cc8ec55e10047eab.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Sensor\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\AndroidStudioProjects\Sensor\app\build\intermediates\pre-dexed\debug\classes-d3295dc76c268d3570fb45e05d4692043df1edae.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Sensor\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\AndroidStudioProjects\Sensor\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-1676e43edd176ad90573fde40079bca0d0e55a67.jar" />
+    </item>
+
+</items>
